@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+*.iml
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Test results
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.xml
+*.md
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python package artifacts
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore compiled C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore project-specific files
+/local_settings.py
+/secrets.json
