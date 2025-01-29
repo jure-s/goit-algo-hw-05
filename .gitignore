@@ -27,7 +27,6 @@ pytest_cache/
 *.tsv
 *.json
 *.xml
-*.md
 
 # Ignore system files
 .DS_Store
